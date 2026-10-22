@@ -1,6 +1,18 @@
 # NOTES
 
-Write this for the client's IT contact. They know their way around a server but weren't in the room while you worked.
+## About you
+
+- **Name:**
+- **Contact email:**
+- **US state:**
+- **Full-time or part-time:**
+- **Contract or direct hire (or either):**
+- **Availability (start date, hours per week):**
+- **Expected rate (annual salary or hourly):**
+
+---
+
+Write the rest for the client's IT contact. They know their way around a server but weren't in the room while you worked.
 
 ## 1. ledger-sync wouldn't stay up
 

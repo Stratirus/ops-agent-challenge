@@ -6,13 +6,13 @@ Stratirus is a small AI and Microsoft 365 consultancy in Franklin, TN. We build 
 
 ## The role
 
-- About [X]% AI development: agents, MCP servers, Copilot Studio, Power Automate, Claude Code
-- About [Y]% Linux administration: Ubuntu servers, systemd, Docker, patching, backups, monitoring
+- About 60% AI development: agents, MCP servers, Copilot Studio, Power Automate, Claude Code
+- About 40% Linux administration: Ubuntu servers, systemd, Docker, patching, backups, monitoring
 - Full-time or part-time
 - Contract or direct hire, depending on fit
-- US-based candidates only; [remote / hybrid in Franklin, TN]
-- [On-call: yes, rotating / no]
-- Pay: **$[low]–$[high]**
+- Remote, US-based candidates only
+- Occasional after-hours support as needed; no formal on-call rotation
+- Pay: tell us your expected rate (annual salary or hourly) when you submit
 
 Early-career and career-switchers are welcome. We care about how you work through a problem more than where you learned to do it.
 
@@ -80,17 +80,17 @@ Use Claude, Copilot, ChatGPT, a local model, whatever you'd use on the job. We u
 ## How to submit
 
 1. Click **Use this template** at the top of this repo and create a **private** repo for your work. Please don't fork this repo publicly or post solutions.
-2. Invite **[github-handle]** as a collaborator.
-3. Fill out [this short form]([form-link]): name, US state, full- or part-time preference, contract or hire preference, availability, pay expectations, repo link.
+2. Fill in the **About you** section at the top of your NOTES.md: name, contact email, US state, full- or part-time, contract or hire, availability, and expected rate.
+3. Invite **[plausiblyhuman](https://github.com/plausiblyhuman)** as a collaborator. The invite is your submission.
 
-We reply to every submission within [5] business days.
+We reply to every submission within 5 business days.
 
 ## What happens next
 
 We review every submission. If yours is a fit for what we need, the next steps may include:
 
 1. **Walkthrough call (30 to 45 minutes).** You walk us through your repo and we ask why you made the calls you did.
-2. **Paid task.** A slightly larger real-world task, paid at a flat **$[amount]**.
+2. **Paid task.** A slightly larger real-world task, paid.
 3. **A conversation about the role.**
 
 Your challenge work stays yours. We use it only to evaluate your application.

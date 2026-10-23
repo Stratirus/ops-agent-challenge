@@ -60,7 +60,7 @@ We'll test your fix script by running it against a fresh `opsbox` and checking t
 
 ### Time box
 
-Plan on 2 to 4 hours. If you hit 4, stop and write up what you'd do next. The challenge is unpaid, so please don't spend more than that. A clear "here's where I got to and why" scores better than a finished box with no notes.
+Please don't spend more than an hour to 90 minutes on this. The challenge is unpaid, and we don't expect you to finish all of it. When you hit your limit, stop and tell us in NOTES.md how far you got, what you'd do next, and what you were thinking along the way. That tells us more than a finished box with no notes.
 
 ## Use AI
 

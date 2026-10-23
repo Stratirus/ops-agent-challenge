@@ -12,7 +12,7 @@ Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in F
 - Contract or direct hire, depending on fit
 - Remote, US-based candidates only
 - Occasional after-hours support as needed; no formal on-call rotation
-- Pay: tell us your expected rate (annual salary or hourly) when you submit
+- Pay: $65,000 to $100,000 per year, based on experience
 
 Early-career and career-switchers are welcome. We care about how you work through a problem more than where you learned to do it.
 

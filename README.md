@@ -2,7 +2,7 @@
 
 We're looking for a junior-to-mid AI developer who also runs Linux. Instead of a resume screen, we ask interested people to do this challenge. Submitting it is how you apply and tell us you're interested. It doesn't guarantee an interview or a job offer.
 
-Stratirus is a small AI and Microsoft 365 consultancy in Franklin, TN. We build AI agents and automation for small and mid-sized businesses, mostly on Claude and Microsoft Copilot, and we run the Linux boxes underneath some of it.
+Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in Franklin, TN. We build AI agents and automation for small and mid-sized businesses, mostly on Claude and Microsoft Copilot, and we run the Linux boxes underneath some of it.
 
 ## The role
 
@@ -90,8 +90,7 @@ We reply to every submission within 5 business days.
 We review every submission. If yours is a fit for what we need, the next steps may include:
 
 1. **Walkthrough call (30 to 45 minutes).** You walk us through your repo and we ask why you made the calls you did.
-2. **Paid task.** A slightly larger real-world task, paid.
-3. **A conversation about the role.**
+2. **A conversation about the role.**
 
 Your challenge work stays yours. We use it only to evaluate your application.
 
@@ -99,6 +98,8 @@ Your challenge work stays yours. We use it only to evaluate your application.
 
 Open a GitHub issue on this repo. Answers are public so everyone gets the same information. Please don't ask for hints on the problems themselves.
 
+For anything private, or if you need an accommodation to complete the challenge (more time, a different format), email [hiring@stratirus.com](mailto:hiring@stratirus.com).
+
 ---
 
-Completing the challenge is not compensated and does not create an employment or contractor relationship or a promise of one. Stratirus is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status.
+Completing the challenge is not compensated and does not create an employment or contractor relationship or a promise of one. Stratirus, a Tennetech company, is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status.

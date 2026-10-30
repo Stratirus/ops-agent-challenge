@@ -3,13 +3,10 @@
 ## About you
 
 - **Name:**
-- **Contact email:**
-- **US state:**
-- **Legally authorized to work in the US without visa sponsorship, now and in the future (yes/no):**
-- **Full-time or part-time:**
-- **Contract or direct hire (or either):**
-- **Availability (start date, hours per week):**
-- **Expected rate (annual salary or hourly):**
+- **Email address you applied from:**
+- **Time spent (roughly):**
+
+Your resume, the three questions, work authorization and the rest go in your email application, not here. See "How to apply" in the challenge README.
 
 ---
 

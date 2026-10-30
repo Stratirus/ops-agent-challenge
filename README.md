@@ -1,4 +1,4 @@
-# Stratirus Ops + Agent Challenge
+# Stratirus is hiring: AI Developer / Linux Admin
 
 We're looking for a junior-to-mid AI developer who also runs Linux. Apply by email with your resume and short answers to three questions (see [How to apply](#how-to-apply)). There's also an **optional, unpaid** hands-on challenge if you want to show your skills. Applying doesn't guarantee an interview or a job offer.
 
@@ -28,7 +28,7 @@ Also include your US state, work authorization, full- or part-time, contract or 
 
 We give strong preference to candidates who share examples of their work: a repo, a project write-up, an automation you run. Send whatever best shows what you can do.
 
-Want to show your skills hands-on? Our **optional, unpaid challenge** is below. It's 60 to 90 minutes, and you can submit it with your application or on its own.
+Want to show your skills hands-on? Our **optional, unpaid challenge** is below. It's 60 to 90 minutes. The challenge adds to your application but doesn't replace it, so please send the email above either way and include your GitHub username.
 
 ## The challenge (optional)
 
@@ -93,11 +93,12 @@ Use Claude, Copilot, ChatGPT, a local model, whatever you'd use on the job. We u
 
 ## Submitting the challenge
 
-1. Click **Use this template** at the top of this repo and create a **private** repo for your work. Please don't fork this repo publicly or post solutions.
-2. Fill in the **About you** section at the top of your NOTES.md: name, contact email, US state, work authorization, full- or part-time, contract or hire, availability, and expected rate.
-3. Invite **[plausiblyhuman](https://github.com/plausiblyhuman)** as a collaborator. The invite is your submission.
+1. Send your email application first (see [How to apply](#how-to-apply)) and include your GitHub username. A challenge repo without an email application isn't a complete submission.
+2. Click **Use this template** at the top of this repo and create a **private** repo for your work. Please don't fork this repo publicly or post solutions.
+3. Fill in the **About you** section at the top of your NOTES.md with your name and the email address you applied from.
+4. Invite **[plausiblyhuman](https://github.com/plausiblyhuman)** as a collaborator.
 
-We reply to every challenge submission within 5 business days. For email applications, we'll get in touch if there's a fit.
+We reply to every complete challenge submission within 5 business days. For email applications without the challenge, we'll get in touch if there's a fit.
 
 ## What happens next
 

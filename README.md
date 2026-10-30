@@ -87,7 +87,7 @@ To submit the challenge:
 2. Fill in the **About you** section at the top of your NOTES.md: name, contact email, US state, work authorization, full- or part-time, contract or hire, availability, and expected rate.
 3. Invite **[plausiblyhuman](https://github.com/plausiblyhuman)** as a collaborator. The invite is your submission.
 
-We reply to every submission within 5 business days.
+We reply to every challenge submission within 5 business days. For email applications, we'll get in touch if there's a fit.
 
 ## What happens next
 

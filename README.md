@@ -1,6 +1,6 @@
 # Stratirus Ops + Agent Challenge
 
-We're looking for a junior-to-mid AI developer who also runs Linux. The best way to apply is this short hands-on challenge. **It's optional and it's not a paid task.** If you'd rather skip it, email [hiring@stratirus.com](mailto:hiring@stratirus.com) with your resume or GitHub and a few lines about what you've built. Either way, applying doesn't guarantee an interview or a job offer.
+We're looking for a junior-to-mid AI developer who also runs Linux. Apply by email with your resume and short answers to three questions (see [How to apply](#how-to-apply)). There's also an **optional, unpaid** hands-on challenge if you want to show your skills. Applying doesn't guarantee an interview or a job offer.
 
 Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in Franklin, TN. We build AI agents and automation for small and mid-sized businesses, mostly on Claude and Microsoft Copilot, and we run the Linux boxes underneath some of it.
 
@@ -16,7 +16,21 @@ Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in F
 
 Early-career and career-switchers are welcome. We care about how you work through a problem more than where you learned to do it.
 
-## The challenge
+## How to apply
+
+Email your resume to **[hiring@stratirus.com](mailto:hiring@stratirus.com)** with the subject **"Application: AI Developer / Linux Admin"**, and answer these three questions in the body. A paragraph each is plenty. Specifics, please.
+
+1. Tell us about a time a client, customer, or boss made an unreasonable demand. What was it, why was it unreasonable, and what did you do about it?
+2. Tell us about a time an AI tool confidently gave you a wrong answer and you followed it. What was the problem, how did you realize it was wrong, and what did you learn?
+3. What's something you've built or automated with AI that you still use? What does it do, and what would you change?
+
+Also include your US state, work authorization, full- or part-time, contract or hire, availability, and expected rate.
+
+We give strong preference to candidates who share examples of their work: a repo, a project write-up, an automation you run. Send whatever best shows what you can do.
+
+Want to show your skills hands-on? Our **optional, unpaid challenge** is below. It's 60 to 90 minutes, and you can submit it with your application or on its own.
+
+## The challenge (optional)
 
 ### Setup
 
@@ -77,11 +91,7 @@ Use Claude, Copilot, ChatGPT, a local model, whatever you'd use on the job. We u
 | NOTES.md | Clear enough that a client's IT person could follow it |
 | AI judgment | Honest about where the AI got it wrong |
 
-## How to submit
-
-Skipping the challenge? Email [hiring@stratirus.com](mailto:hiring@stratirus.com) with your resume or GitHub, the same details listed in step 2, and a few lines about what you've built.
-
-To submit the challenge:
+## Submitting the challenge
 
 1. Click **Use this template** at the top of this repo and create a **private** repo for your work. Please don't fork this repo publicly or post solutions.
 2. Fill in the **About you** section at the top of your NOTES.md: name, contact email, US state, work authorization, full- or part-time, contract or hire, availability, and expected rate.

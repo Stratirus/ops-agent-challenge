@@ -5,6 +5,7 @@
 - **Name:**
 - **Contact email:**
 - **US state:**
+- **Legally authorized to work in the US without visa sponsorship, now and in the future (yes/no):**
 - **Full-time or part-time:**
 - **Contract or direct hire (or either):**
 - **Availability (start date, hours per week):**

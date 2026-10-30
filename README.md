@@ -10,7 +10,7 @@ Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in F
 - About 40% Linux administration: Ubuntu servers, systemd, Docker, patching, backups, monitoring
 - Full-time or part-time
 - Contract or direct hire, depending on fit
-- Remote, US-based candidates only
+- Remote, US-based candidates only. You must be legally authorized to work in the US and not require visa sponsorship, now or in the future.
 - Occasional after-hours support as needed; no formal on-call rotation
 - Pay: $65,000 to $100,000 per year, based on experience
 
@@ -80,7 +80,7 @@ Use Claude, Copilot, ChatGPT, a local model, whatever you'd use on the job. We u
 ## How to submit
 
 1. Click **Use this template** at the top of this repo and create a **private** repo for your work. Please don't fork this repo publicly or post solutions.
-2. Fill in the **About you** section at the top of your NOTES.md: name, contact email, US state, full- or part-time, contract or hire, availability, and expected rate.
+2. Fill in the **About you** section at the top of your NOTES.md: name, contact email, US state, work authorization, full- or part-time, contract or hire, availability, and expected rate.
 3. Invite **[plausiblyhuman](https://github.com/plausiblyhuman)** as a collaborator. The invite is your submission.
 
 We reply to every submission within 5 business days.

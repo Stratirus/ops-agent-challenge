@@ -1,6 +1,6 @@
 # Stratirus Ops + Agent Challenge
 
-We're looking for a junior-to-mid AI developer who also runs Linux. Instead of a resume screen, we ask interested people to do this challenge. Submitting it is how you apply and tell us you're interested. It doesn't guarantee an interview or a job offer.
+We're looking for a junior-to-mid AI developer who also runs Linux. The best way to apply is this short hands-on challenge. **It's optional and it's not a paid task.** If you'd rather skip it, email [hiring@stratirus.com](mailto:hiring@stratirus.com) with your resume or GitHub and a few lines about what you've built. Either way, applying doesn't guarantee an interview or a job offer.
 
 Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in Franklin, TN. We build AI agents and automation for small and mid-sized businesses, mostly on Claude and Microsoft Copilot, and we run the Linux boxes underneath some of it.
 
@@ -79,6 +79,10 @@ Use Claude, Copilot, ChatGPT, a local model, whatever you'd use on the job. We u
 
 ## How to submit
 
+Skipping the challenge? Email [hiring@stratirus.com](mailto:hiring@stratirus.com) with your resume or GitHub, the same details listed in step 2, and a few lines about what you've built.
+
+To submit the challenge:
+
 1. Click **Use this template** at the top of this repo and create a **private** repo for your work. Please don't fork this repo publicly or post solutions.
 2. Fill in the **About you** section at the top of your NOTES.md: name, contact email, US state, work authorization, full- or part-time, contract or hire, availability, and expected rate.
 3. Invite **[plausiblyhuman](https://github.com/plausiblyhuman)** as a collaborator. The invite is your submission.
@@ -89,7 +93,7 @@ We reply to every submission within 5 business days.
 
 We review every submission. If yours is a fit for what we need, the next steps may include:
 
-1. **Walkthrough call (30 to 45 minutes).** You walk us through your repo and we ask why you made the calls you did.
+1. **Walkthrough call (30 to 45 minutes).** You walk us through your challenge repo, or something else you've built, and we ask why you made the calls you did.
 2. **A conversation about the role.**
 
 Your challenge work stays yours. We use it only to evaluate your application.

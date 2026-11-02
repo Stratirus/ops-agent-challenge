@@ -11,10 +11,13 @@ Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in F
 - Full-time or part-time
 - Contract or direct hire, depending on fit
 - Remote, US-based candidates only. You must be legally authorized to work in the US and not require visa sponsorship, now or in the future.
+- Working hours are Central Time business hours
 - Occasional after-hours support as needed; no formal on-call rotation
 - Pay: $65,000 to $100,000 per year, based on experience
 
 Early-career and career-switchers are welcome. We care about how you work through a problem more than where you learned to do it.
+
+We're hiring directly. No recruiters or agencies, please.
 
 ## How to apply
 

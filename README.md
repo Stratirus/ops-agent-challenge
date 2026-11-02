@@ -2,12 +2,14 @@
 
 We're looking for a junior-to-mid AI developer who also runs Linux. Apply by email with your resume and short answers to three questions (see [How to apply](#how-to-apply)). There's also an **optional, unpaid** hands-on challenge if you want to show your skills. Applying doesn't guarantee an interview or a job offer.
 
-Stratirus, a Tennetech company, is a small AI and Microsoft 365 consultancy in Franklin, TN. We build AI agents and automation for small and mid-sized businesses, mostly on Claude and Microsoft Copilot, and we run the Linux boxes underneath some of it.
+Stratirus, a Tennetech company, is a small and growing AI and Microsoft 365 consultancy in Franklin, TN. We build AI agents and automation for small and mid-sized businesses, and harden and run the systems underneath: Microsoft 365 tenants, SharePoint, and Linux boxes.
 
 ## The role
 
-- About 60% AI development: agents, MCP servers, Copilot Studio, Power Automate, Claude Code
+- About 60% AI development: agents, MCP servers, Claude Code, Copilot Studio, Power Automate, Gemini
 - About 40% Linux administration: Ubuntu servers, systemd, Docker, patching, backups, monitoring
+- We're AI-agnostic and use what fits the client: mostly Claude Code, the Microsoft 365 stack with Copilot and Copilot Studio, Gemini and Gemini Studio, and Oracle OBI. PeopleSoft experience is a plus.
+- Client-facing: explaining things clearly to a small-business owner matters as much as the code
 - Full-time or part-time
 - Contract or direct hire, depending on fit
 - Remote, US-based candidates only. You must be legally authorized to work in the US and not require visa sponsorship, now or in the future.

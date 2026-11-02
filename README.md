@@ -29,6 +29,8 @@ Email your resume to **[hiring@stratirus.com](mailto:hiring@stratirus.com)** wit
 
 Also include your US state, work authorization, full- or part-time, contract or hire, availability, and expected rate.
 
+We read every application ourselves, so please write your answers yourself.
+
 We give strong preference to candidates who share examples of their work: a repo, a project write-up, an automation you run. Send whatever best shows what you can do.
 
 Want to show your skills hands-on? Our **optional, unpaid challenge** is below. It's 60 to 90 minutes. The challenge adds to your application but doesn't replace it, so please send the email above either way and include your GitHub username.
@@ -101,7 +103,7 @@ Use Claude, Copilot, ChatGPT, a local model, whatever you'd use on the job. We u
 3. Fill in the **About you** section at the top of your NOTES.md with your name and the email address you applied from.
 4. Invite **[plausiblyhuman](https://github.com/plausiblyhuman)** as a collaborator.
 
-We reply to every complete challenge submission within 5 business days. For email applications without the challenge, we'll get in touch if there's a fit.
+We reply to every application. Complete challenge submissions get a reply within 5 business days.
 
 ## What happens next
 
